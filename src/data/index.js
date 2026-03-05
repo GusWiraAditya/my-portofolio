@@ -96,6 +96,12 @@ export const technologies = [
     level: "advanced",
   },
   {
+    name: "Shadcn UI",
+    icon: "SiShadcnui",
+    color: "text-gray-400",
+    level: "advanced",
+  },
+  {
     name: "PostgreSQL",
     icon: "SiPostgresql",
     color: "text-blue-500",
@@ -111,6 +117,12 @@ export const technologies = [
     name: "React JS",
     icon: "FaReact",
     color: "text-cyan-300",
+    level: "learning",
+  },
+  {
+    name: "Vue JS",
+    icon: "FaVuejs",
+    color: "text-green-400",
     level: "learning",
   },
   {
