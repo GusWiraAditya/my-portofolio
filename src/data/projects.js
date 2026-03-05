@@ -28,7 +28,7 @@ export const projects = [
       shopping experience.`,
     tech: ["React.js", "Laravel", "Tailwind CSS", "Shadcn UI", "MySQL"],
     live: "#",
-    github: "#",
+    github: "https://github.com/GusWiraAditya/mbc-frontend",
   },
   {
     id: 2,
