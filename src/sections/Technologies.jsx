@@ -7,6 +7,7 @@ import {
   FaLaravel,
   FaBootstrap,
   FaReact,
+  FaVuejs
 } from "react-icons/fa";
 import { DiJavascript1, DiJqueryLogo } from "react-icons/di";
 import {
@@ -16,6 +17,7 @@ import {
   SiPostgresql,
   SiMongodb,
   SiExpress,
+  SiShadcnui
 } from "react-icons/si";
 
 export const iconMap = {
@@ -26,6 +28,7 @@ export const iconMap = {
   FaLaravel,
   FaBootstrap,
   FaReact,
+  FaVuejs,
   DiJqueryLogo,
   SiTailwindcss,
   SiCodeigniter,
@@ -33,6 +36,7 @@ export const iconMap = {
   SiPostgresql,
   SiMongodb,
   SiExpress,
+  SiShadcnui,
 };
 
 const animationProps = {

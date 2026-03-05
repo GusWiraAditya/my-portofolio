@@ -19,14 +19,14 @@ export const allTechnologies = [
 export const projects = [
   {
     id: 1,
-    name: "MadeByCan",
+    name: "MadeByCan",    
     image: madeByCan,
     title: "Project Base Learning",
-    status: "In Progress",
+    status: "Completed",
     description: `A modern e-commerce platform built using React.js, Laravel,
-      Tailwind CSS, and PostgreSQL, aimed at delivering seamless online
+      Tailwind CSS, Shadcn UI and MySQL, aimed at delivering seamless online
       shopping experience.`,
-    tech: ["React.js", "Laravel", "Tailwind CSS", "PostgreSQL"],
+    tech: ["React.js", "Laravel", "Tailwind CSS", "Shadcn UI", "MySQL"],
     live: "#",
     github: "#",
   },
